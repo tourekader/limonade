@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">limonade</string>
+    <string name="lemonade_tree" />
+    <string name="lemonade" />
+    <string name="jus_citron" />
+    <string name="ver_vide" />
+</resources>
